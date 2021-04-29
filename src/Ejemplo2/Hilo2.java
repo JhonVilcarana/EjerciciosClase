@@ -13,5 +13,4 @@ public class Hilo2 {
 			t.start();
 		}
 	}
-
 }
